@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7C1&center=true&vCenter=true&width=435&lines=Welocome+to+my+Github+Profile;My+name+is+Francesc+Oliveras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0CF7C1&center=true&vCenter=true&width=1000&lines=Welocome+to+my+Github+Profile+%F0%9F%98%89;My+name+is+Francesc+Oliveras)](https://git.io/typing-svg)
 
 <h1 align="center"> Su título aquí </h1>
 <!--
