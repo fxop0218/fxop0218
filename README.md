@@ -41,6 +41,7 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![c](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=white)](#)
 [![JAX](https://img.shields.io/badge/JAX-B7312F?style=for-the-badge&logo=jax&logoColor=white)](#)
+[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxop0218&show_icons=true&theme=vue-dark)
