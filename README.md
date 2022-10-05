@@ -44,7 +44,7 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
 ### Stats
-![fxop0218's Stats](https://github-readme-stats.vercel.app/api?username=fxop0218&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fxop0218&count_private=true&theme=tokyonight&showicons=true)]()
 ![fxop0218's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fxop0218&theme=tokyonight&hide_border=false)
 
 ![fxop0218's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fxop0218&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
