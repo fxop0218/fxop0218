@@ -24,7 +24,10 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=white)](#) [![JavaS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
 ### 🤖 Machine learning and Deep learning tecnologies (Python & R)
-[![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#) [![matplotlib](https://img.shields.io/badge/matplotlib-%23DDC359.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#) [![pyplot](https://img.shields.io/badge/pyplot-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
+[![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
+[![scikit-learn](https://img.shields.io/badge/scikit−learn-%23F09437.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#) 
+[![matplotlib](https://img.shields.io/badge/matplotlib-%23DDC359.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#) 
+[![pyplot](https://img.shields.io/badge/pyplot-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 
 [![XGBoost](https://img.shields.io/badge/XGBoost-%1AB93F.svg?&style=for-the-badge&logoColor=white)](#)
 [![](https://img.shields.io/badge/LightGBM-5C2D91?style=for-the-badge&logoColor=white)](#) [![](https://img.shields.io/badge/Catboost-276DC3?style=for-the-badge&logoColor=white)](#)
@@ -42,7 +45,13 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![IPFS](https://img.shields.io/badge/ipfs-375BD2?style=for-the-badge&logo=ipfs&logoColor=white)](#)
 
 ### 👨‍💻 Software development (Python, Java & JavaScript)
-[![Android](https://img.shields.io/badge/Android%20apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) [![Bots](https://img.shields.io/badge/Scrapper-262577?style=for-the-badge&logo=CentOS&logoColor=white)](#) [![Java applications](https://img.shields.io/badge/Java%20Apps-orange?style=for-the-badge&logo=java&logoColor=white)](#) [![BE](https://img.shields.io/badge/BackEnd-375BD2?style=for-the-badge&logo=BackEnd&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android%20apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) 
+[![Bots](https://img.shields.io/badge/Scrapper-262577?style=for-the-badge&logo=CentOS&logoColor=white)](#) 
+[![Java applications](https://img.shields.io/badge/Java%20Apps-orange?style=for-the-badge&logo=java&logoColor=white)](#) 
+[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![BE](https://img.shields.io/badge/BackEnd-375BD2?style=for-the-badge&logo=BackEnd&logoColor=white)](#)
 
 ### ✏ Some stuff I want to learn
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
