@@ -10,7 +10,7 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesc-oliveras-perez)
 
 ### 💬 My main interests are / 🌱 I’m currently learning:
-[![Machine Learnig](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge)](#) [![Deep Learnig](https://img.shields.io/badge/-Deep%20Learning-lightgrey?style=for-the-badge)](#) [![Big data](https://img.shields.io/badge/-Big%20Data-lightgrey?style=for-the-badge)](#) [![Neuronal network](https://img.shields.io/badge/-Neuronal%20network-lightgrey?style=for-the-badge)](#)
+[![Machine Learnig](https://img.shields.io/badge/-Machine%20Learning-lightgrey?style=for-the-badge)](#) [![Deep Learnig](https://img.shields.io/badge/-Deep%20Learning-lightgrey?style=for-the-badge)](#) [![Neuronal network](https://img.shields.io/badge/-Neuronal%20network-lightgrey?style=for-the-badge)](#)
 
 [![Computer vision](https://img.shields.io/badge/-Computer%20vision-lightgrey?style=for-the-badge)](#) [![Data science](https://img.shields.io/badge/-Data%20science-lightgrey?style=for-the-badge)](#) [![Data analysis](https://img.shields.io/badge/-Data%20analysis-lightgrey?style=for-the-badge)](#) [![Data visualization](https://img.shields.io/badge/-Data%20visualization-lightgrey?style=for-the-badge)](#)
 
