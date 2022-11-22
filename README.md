@@ -49,7 +49,6 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Bots](https://img.shields.io/badge/Scrapper-262577?style=for-the-badge&logo=CentOS&logoColor=white)](#) 
 [![Java applications](https://img.shields.io/badge/Java%20Apps-orange?style=for-the-badge&logo=java&logoColor=white)](#) 
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)](#)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![BE](https://img.shields.io/badge/BackEnd-375BD2?style=for-the-badge&logo=BackEnd&logoColor=white)](#)
 
 ### ✏ Some stuff I want to learn
