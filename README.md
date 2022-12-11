@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0CF7C1&center=true&vCenter=true&width=1000&lines=Welocome+to+my+Github+Profile+%F0%9F%98%89;My+name+is+Francesc+Oliveras)](https://git.io/typing-svg)
 
-<h2> Who I am? 🙌 </h2>
+<h2> Who I am? 🙌 👌</h2>
 Mi name is Francesc Oliveras, im living in Barcelona, Spain and And I have studied professional training in multiplatform application development.
 Right now, I'm expanding my knowledge about programming and application development and I'm learning about machine learning, deep learning and smart contract development on the blockchain
 
