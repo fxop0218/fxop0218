@@ -2,7 +2,7 @@
 
 <h2> Who I am? 🙌 👌</h2>
 Mi name is Francesc Oliveras, im living in Barcelona, Spain and And I have studied professional training in multiplatform application development.
-Right now, I'm expanding my knowledge about programming and application development and I'm learning about machine learning, deep learning and smart contract development on the blockchain
+Right now, I'm expanding my knowledge about programming and application development and I'm learning about machine learning, deep learning and smart contract development on the blockchain.
 
 ### 📩 How to reach me: 
 
