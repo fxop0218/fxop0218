@@ -61,12 +61,14 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Web3](https://img.shields.io/badge/Web3.js-4EA94B?style=for-the-badge&logo=Web3&logoColor=white)](#)
 [![IPFS](https://img.shields.io/badge/ipfs-375BD2?style=for-the-badge&logo=ipfs&logoColor=white)](#)
 
-### 👨‍💻 Software development (Python, Java & JavaScript)
+### 👨‍💻 Software development (Python, Java, JavaScript, C#)
 [![Android](https://img.shields.io/badge/Android%20apps-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) 
 [![Bots](https://img.shields.io/badge/Scrapper-262577?style=for-the-badge&logo=CentOS&logoColor=white)](#) 
 [![Java applications](https://img.shields.io/badge/Java%20Apps-orange?style=for-the-badge&logo=java&logoColor=white)](#) 
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)](#)
 [![BE](https://img.shields.io/badge/BackEnd-375BD2?style=for-the-badge&logo=BackEnd&logoColor=white)](#)
+
+[![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 
 ### ✏ Some stuff I want to learn
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
