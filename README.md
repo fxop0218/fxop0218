@@ -49,7 +49,7 @@ Right now, I'm expanding my knowledge about programming and application developm
 [![Keras](https://img.shields.io/badge/keras-%23C90000.svg?&style=for-the-badge&logo=keras&logoColor=white)](#) 
 [![and more...](https://img.shields.io/badge/+%20and%20more...-%23A8B9CC.svg?&style=for-the-badge&logo=plus&logoColor=white)](#)
 
-### ⛓ Blockchain tecnologies (Solidity, Python & JavaScript)
+### ⛓ Blockchain tecnologies (Solidity, Python & JavaScript).
 [![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](#) 
 [![Brownie](https://img.shields.io/badge/Brownie-FF7139?style=for-the-badge&logo=Brownie&logoColor=white)](#) 
 [![ERC20](https://img.shields.io/badge/ERC20-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](#) 
